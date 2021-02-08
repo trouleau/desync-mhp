@@ -39,7 +39,7 @@ There are two notebooks illustrating the contributions on the paper.
     
 ### 2.1. DESYNC-MHP MLE on a toy example
 
-The first notebook `1. DESYNC-MHP MLE on a toy example` takes the toy example used in the paper and applies both the classic maximum likelihood estimation and our DESYNC-MHP MLE approach to accurately recover the parameters of the of the model.
+The first notebook `1. DESYNC-MHP MLE on a toy example` takes the toy example used in the paper and applies both the classic maximum likelihood estimation and our DESYNC-MHP MLE approach to accurately recover the parameters of the model.
 
 ### 2.2. Effect of synchronization noise on the classic ML estimator
 
